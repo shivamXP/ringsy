@@ -13,9 +13,11 @@
                         {{ with $element.url }}
                         <a href="{{ $element.url }}">
                         {{ end }}
-                            <div class="icon">
+                            <script> console.log("{{ $element }}") </script>
+                            <img src="img/carousel/{{ $element.img }}" alt="Girl in a jacket" width="250" height="200">
+                             <!-- <div class="icon">
                                 <i class="{{ .icon }}"></i>
-                            </div>
+                            </div>  -->
                         {{ with $element.url }}
                         </a>
                         {{ end }}

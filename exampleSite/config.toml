@@ -119,7 +119,7 @@ paginate = 10
 
     logo = "img/logo.png"
     logo_small = "img/logo-small.png"
-    address = """<p class="text-uppercase"><strong>Universal Ltd.</strong>
+    address = """<p class="text-uppercase"><strong></strong>
         <br>Godown (Name:Urmila ben patel)
         <br>Near verai mata temple
         <br>Ranoli Village,Vadodara
@@ -136,7 +136,7 @@ paginate = 10
 
 # Enable or disable top bar with social icons
 [params.topbar]
-    enable = true
+    enable = false
     text = """<p class="hidden-sm hidden-xs">Contact us on +91 9974 018 406 or ringsy.engineering@gmail.com.</p>
       <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
       <a href="#" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
