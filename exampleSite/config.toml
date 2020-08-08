@@ -120,14 +120,15 @@ paginate = 10
     logo = "img/logo.png"
     logo_small = "img/logo-small.png"
     address = """<p class="text-uppercase"><strong></strong>
-        <br>Godown (Name:Urmila ben patel)
+        Godown (Name:Urmila ben patel)
         <br>Near verai mata temple
         <br>Ranoli Village,Vadodara
         <br>Gujarat-391350
         <br>
         <br>
         <br>
-        <strong>Registrar Adress:39 Niraman Society, Near water tank,  Dasharath.Vadodara,Gujarat-391740 </strong>
+        <strong>Registrar Adress: <br>
+          39 Niraman Society, Near water tank,  Dasharath.Vadodara,Gujarat-391740 </strong>
       </p>
       """
 
