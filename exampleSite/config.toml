@@ -29,17 +29,17 @@ paginate = 10
     url  = "/blog/"
     weight = 2
 
-[[menu.main]]
-    identifier = "about_us"
-    name = "about_us"
-    url  = "/about_us/"
-    weight = 3
+#[[menu.main]]
+#    identifier = "about_us"
+#    name = "about_us"
+#    url  = "/about_us/"
+#    weight = 3
 
-[[menu.main]]
-    identifier = "gallery"
-    name = "gallery"
-    url  = "/gallery/"
-    weight = 4
+#[[menu.main]]
+#    identifier = "gallery"
+#    name = "gallery"
+#    url  = "/gallery/"
+#    weight = 4
 
 [[menu.main]]
     identifier = "contact"
@@ -111,7 +111,7 @@ paginate = 10
     email = "your@email.com"
     contact_form_ajax = false
 
-    about_us = "<p>Ringsy Engineering Vadodara.</p>"
+    about_us = "<p>Ringsy Engineering Vadodara.<br>  RINGSY ENGINEERING is one of the most reputed manufacturers of all types of Industrial Gaskets in India. We manufacture standard sealing products as well as customized solutions as per specific industry demands. We offer our highest quality products at globally competitive rates. We are supplied gasket for both project installation and maintenance replacement are supplying best quality product and service provided in a competitive, timely and efficient manner. We are manufacturing the gasket as per the international standard such as API 601, ASME B 16.20. ASME B 16.47 A & B ,DIN, British standard and other specified. </p> "
     copyright = "Copyright (c) 2015 - 2016, RINGSY; all rights reserved."
 
     # Format dates with Go's time formatting
