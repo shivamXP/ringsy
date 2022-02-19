@@ -1,5 +1,5 @@
 baseurl = "https://example.org"
-title = "Ringsy"
+title = "ringsy"
 theme = "hugo-universal-theme"
 themesDir = "../.."
 languageCode = "en-us"
@@ -51,26 +51,8 @@ paginate = 10
 
 [[menu.topbar]]
     weight = 1
-    name = "GitHub"
-    url = "https://github.com/devcows/hugo-universal-theme"
-    pre = "<i class='fab fa-2x fa-github'></i>"
-
-[[menu.topbar]]
-    weight = 2
-    name = "Facebook"
-    url = "http://facebook.com"
-    pre = "<i class='fab fa-2x fa-facebook'></i>"
-
-[[menu.topbar]]
-    weight = 3
-    name = "Twitter"
-    url = "http://twitter.com"
-    pre = "<i class='fab fa-2x fa-twitter'></i>"
-
-[[menu.topbar]]
-    weight = 4
-    name = "Email"
-    url = "mailto:shetty@email.com"
+    name = "Whatsapp"
+    url = "https://wa.me/917990154741"
     pre = "<i class='fas fa-2x fa-envelope'></i>"
 
 [params]
@@ -120,10 +102,15 @@ paginate = 10
     logo = "img/logo.png"
     logo_small = "img/logo-small.png"
     address = """<p class="text-uppercase"><strong></strong>
-        Godown (Name:Urmila ben patel)
+        Godown (Name:Mehul patel)
         <br>Near verai mata temple
         <br>Ranoli Village,Vadodara
         <br>Gujarat-391350
+        <br>Ph: +91 7990154741
+        <br>email:ringsy.engineering@gmail.com
+        <br> <form action="https://wa.me/917990154741">
+             <input type="submit" value="Whatsapp contact message" />
+             </form>
         <br>
         <br>
         <br>
@@ -138,7 +125,7 @@ paginate = 10
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = false
-    text = """<p class="hidden-sm hidden-xs">Contact us on +91 9974 018 406 or ringsy.engineering@gmail.com.</p>
+    text = """<p class="hidden-sm hidden-xs">Contact us on +91 7990154741 or ringsy.engineering@gmail.com.</p>
       <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
       <a href="#" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
       </p>
