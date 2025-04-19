@@ -6,7 +6,7 @@ categories = ["gasket"]
 banner = "img/banners/non-asbestos-gasket.jpg"
 
 +++
-## Introduction
+
 
 Asbestos free gasket material based on and high quality aramid fibers with NBR binder, excellent mechanical properties, good torque retention high tensile strength thermal, oil, fuel resistance.
 

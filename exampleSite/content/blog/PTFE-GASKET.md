@@ -5,7 +5,7 @@ categories = ["gasket"]
 banner = "img/banners/PTFE-GASKET-5.jpg"
 
 +++
-## Introduction
+
 
 PTFE (polytetrafluorethylene) – is fluoropolymer with excellent characteristics. 
 

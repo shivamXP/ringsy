@@ -1,10 +1,13 @@
-weight: 4
-title: "Spiral wound"
-description: >
+# weight: 4
+# title: "Spiral wound"
+# description: >
   
-image: "img/carousel/Spiral-wound-gasket-2.jpg"
+# image: "img/carousel/Spiral-wound-gasket-2.jpg"
 
 
-#<ul class="list-style-none">
-#    <li>Petrochemical</li>
-#  </ul>
+# #<ul class="list-style-none">
+# #    <li>Petrochemical</li>
+# #  </ul>
+
+
+## THIS SHOULD NOT BE ANABLED

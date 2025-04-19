@@ -5,7 +5,7 @@ tags = ["gasket"]
 categories = ["gasket"]
 banner = "img/banners/Metal-jacketed-gasket.jpg"
 +++
-## Introduction
+
 
 Metal jacketd gasket specially design as heat Exchanger Gasket are widly used in smooth flange application.
 
